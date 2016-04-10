@@ -1,0 +1,2 @@
+I undertook a massive refactoring of the components for the front-end application of the system.
+My problem was my flaws in my constructs of knowledge around 

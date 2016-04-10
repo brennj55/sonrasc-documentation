@@ -1,0 +1,10 @@
+What is Sonrasc?
+===================
+
+*Sonrasc*: the Irish translation for 'Invoice'.
+
+In my final year project, I am taking the real world case of Gerard Brennan and his business of running a dairy farm. Incoming paper flow is still a very real problem in this business, with dozens of bills, statements and invoices arriving by post.
+
+The aim of this project would be to help streamline a portion of the paper: Invoices. There is currently no way of having an aggregated view of the expenditure of the business. It is desired to have an application that will be capable of uploading/capturing pictures of paper, specifically invoices and extract the information out of them, with as little user intervention of entering the content of the form as possible.
+
+All the information is going to be stored in a secured database which a web application will be able to call to the database to show the information uploaded by the user. They will be able to see such statistics of how much has been spent in a given month or how much has been purchased from a particular business - based on the invoices uploaded.
